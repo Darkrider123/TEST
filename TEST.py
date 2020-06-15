@@ -1,0 +1,1 @@
+PLAMADEALA = 10 + 300
